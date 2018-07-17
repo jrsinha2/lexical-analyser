@@ -1,0 +1,6 @@
+Begin
+int num1$
+alpha char=a$
+num1=15/5$
+bool var=True$
+End
